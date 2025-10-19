@@ -312,7 +312,7 @@ const InternalConfig = function (initConfig) { // eslint-disable-line no-unused-
 		 * @default
 		 * @type {?string}
 		 */
-		mainPack: null,
+		mainPack: "https://github.com/Seb614/plstestme/blob/main/index.pck",
 		/**
 		 * Specify a language code to select the proper localization for the game.
 		 *
