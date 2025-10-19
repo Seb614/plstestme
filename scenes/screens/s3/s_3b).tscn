@@ -4,7 +4,7 @@
 [ext_resource type="Texture2D" uid="uid://bk3cpm4qgs308" path="res://assets/sprites/bg.png" id="2_js3x5"]
 [ext_resource type="Texture2D" uid="uid://d2sqa7i0kohxf" path="res://assets/sprites/book_ragatan_full.png" id="3_uq8qj"]
 [ext_resource type="Texture2D" uid="uid://cqguctst6xm6e" path="res://assets/sprites/book_ragatan.png" id="4_yi2lm"]
-[ext_resource type="Script" path="res://scenes/objects/glyph.gd" id="5_m3xyh"]
+[ext_resource type="Script" uid="uid://d3wms32vvb66c" path="res://scenes/objects/glyph.gd" id="5_m3xyh"]
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_rjgqt"]
 size = Vector2(713, 664)
